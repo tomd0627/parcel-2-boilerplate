@@ -1,0 +1,11 @@
+.subheading {
+  border: $border-width solid $border-color;
+  border-left: 0;
+  border-right: 0;
+  margin: $hr-margin-y 0;
+  padding: $hr-margin-y 0;
+
+  h4 {
+    margin: 0;
+  }
+}

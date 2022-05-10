@@ -1,0 +1,26 @@
+.list {
+  &--folder {
+    list-style-type: none;
+    padding-left: 25px;
+
+    li {
+      padding-left: 25px;
+      position: relative;
+
+      &::before {
+        content: "\f07c";
+        display: block;
+        font-family: $fas;
+        font-weight: $fw-regular;
+        left: 0;
+        position: absolute;
+        top: 0;
+      }
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+  }
+}
