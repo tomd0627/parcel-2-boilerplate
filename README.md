@@ -34,7 +34,7 @@
 
 ---
 
-**Note:** Each file with the name `index` is a master import file.
+**Note:** Each file with the name `index` is a master import file. For the `scripts`, please use the `init` file instead.
 
 ```
 |--assets

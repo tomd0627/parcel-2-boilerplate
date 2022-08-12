@@ -1,1 +1,3 @@
-import ".utils";
+import { initialize } from "./init";
+
+initialize();

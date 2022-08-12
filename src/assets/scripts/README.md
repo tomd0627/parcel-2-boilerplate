@@ -1,3 +1,3 @@
 Scripts go here.
 
-Use the master import file `index.js` to import additionali scripts.
+Use the master import file `init.js` to import additionai scripts.
