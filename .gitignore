@@ -375,3 +375,4 @@ FodyWeavers.xsd
 .parcel-cache
 dist
 node_modules
+.yarn
